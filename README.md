@@ -1,6 +1,9 @@
 # TodoList 📝
 Todo list that you can use to add tasks for the day. Also shows the date and time.
 
+Deployed site with netlify. You can see it working here:
+https://loving-einstein-1c4f68.netlify.app/
+
 What I learnt doing this project:
 - Javascript and DOM manipulation
 - Improved my styling knowledge
